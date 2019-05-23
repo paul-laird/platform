@@ -1,1 +1,3 @@
 Hello World
+<BR/>
+Today is <?php echo Date(); ?>
