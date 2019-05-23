@@ -1,3 +1,3 @@
 Hello World
 <BR/>
-Today is <?php echo time(); ?>
+Today is <?php echo date(time()); ?>
